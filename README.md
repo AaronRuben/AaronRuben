@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Aaron 👋
 
+I'm currently a PhD student in the Lachance Lab at Georgia Tech. I'm broadly interested in developing theoretical models and developing/using computational tools to understand the dynamics and effects of admixture and introgression. Currently, I'm studying the legacy of Neanderthal introgression in diverse human populations. 
+
+During my Master's, I developed a tool - MgCod - that detects stop codon reassingments in prokaryotic sequences and annotates coding regions accordingly. The tool was designed with crAss-like phages in mind, which show differential stop codon usage in parts of their genomes. 
 <!--
 **AaronRuben/AaronRuben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
